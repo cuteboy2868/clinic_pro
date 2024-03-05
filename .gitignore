@@ -1,0 +1,6 @@
+.env
+media
+venv
+__pycache__
+migrations
+.idea
